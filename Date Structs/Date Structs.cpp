@@ -1,3 +1,10 @@
+// In this exercise you are given a C++ program that makes use of variables of type Date. The definition of the Date data structure (struct) should be in the file Date.h but it has somehow disappeared. Please provide it for us so that the program in main.cpp compiles and runs correctly.
+
+// The output of the program should be exactly:
+// 01/01/1970
+// 11/11/1918
+// 07/04/2022
+
 #include <iostream>
 #include "Date.h"
 
